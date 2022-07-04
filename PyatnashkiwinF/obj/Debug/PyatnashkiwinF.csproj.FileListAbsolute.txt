@@ -1,0 +1,12 @@
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\bin\Debug\PyatnashkiwinF.exe.config
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\bin\Debug\PyatnashkiwinF.exe
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\bin\Debug\PyatnashkiwinF.pdb
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.csproj.AssemblyReference.cache
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.Form1.resources
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.Properties.Resources.resources
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.csproj.GenerateResource.cache
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.exe
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.pdb
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\bin\Debug\GlobalHotKey.dll
+C:\Users\STUDENT\source\repos\PyatnashkiwinF\obj\Debug\PyatnashkiwinF.csproj.CopyComplete
